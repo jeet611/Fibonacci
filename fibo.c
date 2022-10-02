@@ -1,7 +1,3 @@
-Hchocolates really satifies
-Nothing is faster than HChocolates
-HChocolates, just the best
-Share moments, share Hchocolates
 
 #include<stdio.h>    
 int main()    
